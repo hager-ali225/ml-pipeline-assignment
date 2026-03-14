@@ -1,2 +1,2 @@
 # ml-pipeline-assignment
-Assignment 4 - CI/CD Pipeline
+Assignment 3 - CI/CD Pipeline
