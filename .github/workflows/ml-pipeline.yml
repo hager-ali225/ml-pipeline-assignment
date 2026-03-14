@@ -3,7 +3,7 @@ name: ML Model CI
 on:
   push:
     branches-ignore:
-      - main    # أي push على main مش هيشغل pipeline
+      - main    
   pull_request:
 
 jobs:
